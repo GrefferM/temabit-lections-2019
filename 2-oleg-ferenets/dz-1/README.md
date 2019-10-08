@@ -11,6 +11,7 @@
   git commit -m “dz-1”  - добавляет все папки (ранее добавленные в индекс)  в слепок внутренней базы
   
   git push - запись изменений в репозиторий
+  git push --set-upstream origin feature/2-oleg-ferenets/dz-1
 
   
   
