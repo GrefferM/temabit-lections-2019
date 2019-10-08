@@ -41,6 +41,6 @@ These are common Git commands used in various situations:
    `push`      Update remote refs along with associated objects
 
 `git help -a` and `git help -g` list available subcommands and some \
-concept guides. See `git help \<command\>` or `git help \<concept\>` \
+concept guides. See `git help <command>` or `git help <concept>` \
 to read about a specific subcommand or concept. \
 See `git help git` for an overview of the system.
