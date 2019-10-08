@@ -1,10 +1,10 @@
-##Git comands
+# Git comands
 
 `git init` ***- initializes a new repository with readme.md and .git files;***
   
 `git status` ***- check for untracked files, to see what is changed in local repository;***
   
-`git fetch` ***- dowload commits, files, and refs from remote repository to local repository; ***
+`git fetch` ***- dowload commits, files, and refs from remote repository to local repository;***
 
 `git checkout "branch name"` ***- create new branch from current branch;***
 
