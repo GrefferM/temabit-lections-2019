@@ -19,4 +19,6 @@
   
   git pull - скачиваем изменения из репозитория
   
+   git pull origin feature/2-oleg-ferenets/dz-1
+
   
