@@ -29,17 +29,17 @@ git [--version] [--help] [-C \<path\>] [-c \<name\>=\<value\>] \
 
 ### These are common Git commands used in various situations
 
-**start a working area (see also: git help tutorial)** \
+**start a working area (see also: `git help tutorial`)** \
 **<a name='clone'>`clone`**     [Clone a repository into a new directory]() \
 **<a name='init'>`init`**      [Create an empty Git repository or reinitialize an existing one]()
 
-**work on the current change (see also: git help everyday)** \
+**work on the current change (see also: `git help everyday`)** \
 **<a name='add'>`add`**       [Add file contents to the index]() \
    `mv`        Move or rename a file, a directory, or a symlink \
    `restore`   Restore working tree files \
    `rm`        Remove files from the working tree and from the index
 
-**examine the history and state (see also: git help revisions)** \
+**examine the history and state (see also: `git help revisions`)** \
    `bisect`    Use binary search to find the commit that introduced a bug \
    `diff`      Show changes between commits, commit and working tree, etc \
    `grep`      Print lines matching a pattern \
@@ -56,12 +56,12 @@ git [--version] [--help] [-C \<path\>] [-c \<name\>=\<value\>] \
    `switch`    Switch branches \
 **<a name='tag'>`tag`**       [Create, list, delete or verify a tag object signed with GPG]()
 
-**collaborate (see also: git help workflows)** \
+**collaborate (see also: `git help workflows`)** \
 **<a name='fetch'>`fetch`**     [Download objects and refs from another repository]() \
 **<a name='pull'>`pull`**      [Fetch from and integrate with another repository or a local branch]() \
 **<a name='push'>`push`**      [Update remote refs along with associated objects]()
 
-**<a name='help'>`git help -a` and `git help -g` [list available subcommands and some]()
-concept guides. See `git help <command>` or `git help <concept>` \
+**<a name='help'>`git help -a and git help -g`** [list available subcommands]() \
+and some concept guides. See `git help <command>` or `git help <concept>` \
 to read about a specific subcommand or concept. \
 See `git help git` for an overview of the system.
