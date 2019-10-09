@@ -48,7 +48,7 @@ git [--version] [--help] [-C \<path\>] [-c \<name\>=\<value\>] \
 #####   <a name='status'>`status`    [Show the working tree status]()
 
 **grow, mark and tweak your common history**
-#####   <a name='branch'>`branch`    [List, create, or delete branches](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#manipulating-branches)
+#####   <a name='branch'>`branch`</a>    [List, create, or delete branches](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html#manipulating-branches)
 #####   <a name='commit'>`commit`    [Record changes to the repository]()
 #####   <a name='merge'>`merge`     [Join two or more development histories together]()
    `rebase`    Reapply commits on top of another base tip \
