@@ -4,9 +4,9 @@
 
 [`git help`](#help)\
 [`git init`](#init)\
-[`git config`](#https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)\
+[`git config`](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)\
 [`git clone`](#clone)\
-[`git checkout`](#https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)\
+[`git checkout`](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)\
 [`git branch`](#branch)\
 [`git status`](#status)\
 [`git add`](#add)\
