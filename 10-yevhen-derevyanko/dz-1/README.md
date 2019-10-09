@@ -1,31 +1,30 @@
 # Основні команди Git #
-* git init
+*  `git init`
     > ініціалізує git
-* git clone
+* `git clone`
     > клонує існуючий репозиторій
-* git status 
-    > перевіряє статус файлів в локальному репозиторії    
-* git branch branchName
+* `git status`
+    > перевіряє статус файлів в локальному репозиторії
+* `git branch branchName`
     > створює гілку
-    * git checkout -b branchName
-        > створює гілку та одразу переходить на неї
-* git checkout branchName
-    > переходить на вказану гілку  
-* git branch -d branchName
-    > видаляє вказану гілку        
-* git add
+    * `git checkout -b branchName`
+        > > створює гілку та одразу переходить на неї
+* `git checkout branchName`
+    > переходить на вказану гілку
+* `git branch -d branchName`
+    > видаляє вказану гілку
+* `git add`
     > додає файли до локального репозиторію (staget)
-        > git add * - всі файли
-        > git add . - поточну дерикторію
-* commit -m "commitName"
+        > > `git add *` - всі файли
+        > > `git add .` - поточну дерикторію
+* ` commit -m "commitName"`
     > створює коміт з повідомленням, які зміни в проекті було зроблено
-* git push origin branchName
+* `git push origin branchName`
     > заливає зміни в проекті на віддалений репозиторій в вказану гілку
-* git merge branchName
+* `git merge branchName`
     > Об'єднує вказану гілку з поточною
-* git fetch 
+* `git fetch`
     > забирає всі дані проекта яких ще немає на даний момент (не зробить змін в робочій області)
     > (файли, комміти, ссилки на гілки)
-* git pull 
+* `git pull`
     > завантажує всі комміти в поточну гілку
-
