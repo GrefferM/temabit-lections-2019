@@ -9,3 +9,14 @@ git commit -m "commit message here" - create a commit with a message about the c
 git pull - downloads all branches into local repo
 git push origin _branch name_ - uploads local _branch name_ branch into remote repository
 git merge _branch name_ - merges _branch name_ into current branch
+git merge --abort - reset merging
+git cherry-pick abcdabcd - copies commits
+git stash - cuts changes to stash in order to paste stash back or to another branch
+git stash list - shows stashes list
+git stash apply stash@{2} - apply stash
+git stash drop - apply stash and delete it
+git tag -a v0.0.1 -m 'text here' abcabcabc - create tag (with version for example)
+git push origin v0.0.1 - push tag
+git push origin --tags - push all tags
+git show v0.0.1 - show tag
+git tag -d v0.0.1 - delete tag
