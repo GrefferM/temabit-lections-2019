@@ -17,6 +17,11 @@
 [`git merge`](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-merge.html)\
 [`git tag`](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-tag.html)
 
+## user manuals
+- [https://git-scm.com/doc](https://git-scm.com/doc)
+- [https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
+- [https://mirrors.edge.kernel.org/pub/software/scm/git/docs/](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
+
 ## git help in bash `$ git --help`
 
 ### usage
@@ -30,11 +35,11 @@ git [--version] [--help] [-C \<path\>] [-c \<name\>=\<value\>] \
 ### These are common Git commands used in various situations
 
 #### start a working area (see also: `git help tutorial`)
-**<a name='clone'>`clone`**     [Clone a repository into a new directory](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
-**<a name='init'>`init`**      [Create an empty Git repository or reinitialize an existing one](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
+**<a name='clone'>`clone`**     [Clone a repository into a new directory](https://git-scm.com/docs/git-clone) \
+**<a name='init'>`init`**      [Create an empty Git repository or reinitialize an existing one](https://git-scm.com/docs/git-init)
 
 #### work on the current change (see also: `git help everyday`)
-**<a name='add'>`add`**       [Add file contents to the index](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
+**<a name='add'>`add`**       [Add file contents to the index](https://git-scm.com/docs/git-add) \
    `mv`        Move or rename a file, a directory, or a symlink \
    `restore`   Restore working tree files \
    `rm`        Remove files from the working tree and from the index
@@ -45,23 +50,23 @@ git [--version] [--help] [-C \<path\>] [-c \<name\>=\<value\>] \
    `grep`      Print lines matching a pattern \
    `log`       Show commit logs \
    `show`      Show various types of objects \
-**<a name='status'>`status`**    [Show the working tree status](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
+**<a name='status'>`status`**    [Show the working tree status](https://git-scm.com/docs/git-status)
 
 #### grow, mark and tweak your common history
-**<a name='branch'>`branch`**    [List, create, or delete branches](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
-**<a name='commit'>`commit`**    [Record changes to the repository](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
-**<a name='merge'>`merge`**     [Join two or more development histories together](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
+**<a name='branch'>`branch`**    [List, create, or delete branches](https://git-scm.com/docs/git-branch) \
+**<a name='commit'>`commit`**    [Record changes to the repository](https://git-scm.com/docs/git-commit) \
+**<a name='merge'>`merge`**     [Join two or more development histories together](https://git-scm.com/docs/git-merge) \
    `rebase`    Reapply commits on top of another base tip \
    `reset`     Reset current HEAD to the specified state \
    `switch`    Switch branches \
-**<a name='tag'>`tag`**       [Create, list, delete or verify a tag object signed with GPG](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
+**<a name='tag'>`tag`**       [Create, list, delete or verify a tag object signed with GPG](https://git-scm.com/docs/git-tag)
 
 #### collaborate (see also: `git help workflows`)
-**<a name='fetch'>`fetch`**     [Download objects and refs from another repository](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
-**<a name='pull'>`pull`**      [Fetch from and integrate with another repository or a local branch](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
-**<a name='push'>`push`**      [Update remote refs along with associated objects](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
+**<a name='fetch'>`fetch`**     [Download objects and refs from another repository](https://git-scm.com/docs/git-fetch) \
+**<a name='pull'>`pull`**      [Fetch from and integrate with another repository or a local branch](https://git-scm.com/docs/git-pull) \
+**<a name='push'>`push`**      [Update remote refs along with associated objects](https://git-scm.com/docs/git-push)
 
-**<a name='help'>`git help -a and git help -g`** [list available subcommands](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/) \
+**<a name='help'>`git help -a and git help -g`** [list available subcommands](https://git-scm.com/docs/git-help) \
 and some concept guides. See `git help <command>` or `git help <concept>` \
 to read about a specific subcommand or concept. \
 See `git help git` for an overview of the system.
