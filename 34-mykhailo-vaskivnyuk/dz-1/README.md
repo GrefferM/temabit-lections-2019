@@ -18,6 +18,7 @@
 [`git tag`](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-tag.html)
 
 ## user manuals
+
 - [https://git-scm.com/doc](https://git-scm.com/doc)
 - [https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
 - [https://mirrors.edge.kernel.org/pub/software/scm/git/docs/](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/)
